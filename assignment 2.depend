@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1652252898 source:c:\users\mahmo\documents\c++\assignment 2\main.cpp
+	<tchar.h>
+	<windows.h>
+	<math.h>
+
