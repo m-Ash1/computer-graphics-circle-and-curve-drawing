@@ -1,5 +1,3 @@
-// Ziad Mahmoud Abdelmohsen 20190226 - Mahmoud Ashraf Farouk 20190492
-
 #if defined(UNICODE) && !defined(_UNICODE)
 #endif
 #include <tchar.h>
